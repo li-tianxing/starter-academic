@@ -4,8 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tianxing LI # Website name
-baseurl: 'https://litianxing.netlify.app/' # Website URL
+baseurl: 'https://li-tianxing.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+
+git submodule add -f -b master https://github.com/li-tianxing/li-tianxing.github.io.git public
 
 ############################
 ## LANGUAGE
