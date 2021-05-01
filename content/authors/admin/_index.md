@@ -69,4 +69,3 @@ highlight_name: false
 
 Tianxing LI test
 
-#  {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
