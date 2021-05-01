@@ -7,8 +7,6 @@ title: Tianxing LI # Website name
 baseurl: 'https://li-tianxing.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
-git submodule add -f -b master https://github.com/li-tianxing/li-tianxing.github.io.git public
-
 ############################
 ## LANGUAGE
 ############################
