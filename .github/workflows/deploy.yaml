@@ -19,9 +19,8 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses: benmatselby/hugo-deploy-gh-pages@master
       env:
-        HUGO_VERSION: 0.82.1
+        HUGO_VERSION: 0.81.0
         TARGET_REPO: li-tianxing/li-tianxing.github.io
-        TARGET_BRANCH: master
         TOKEN: ${{ secrets.WOW_AUTO_DEPLOY_TOKEN }}
         HUGO_ARGS: '-t academic'
         CNAME: li-tianxing.github.io
