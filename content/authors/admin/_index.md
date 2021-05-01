@@ -26,10 +26,10 @@ education:
   courses:
   - course: PhD in Computer Graphics
     institution: The University of Tokyo
-    year: 2018-now
+    year: 2018 - present
   - course: MEng in Computer Vision
     institution: Beijing Forestry University
-    year: 2014-2017
+    year: 2014 - 2017
 
 
 # Social/Academic Networking
@@ -68,4 +68,3 @@ highlight_name: false
 ---
 
 Tianxing LI test
-
